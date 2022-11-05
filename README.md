@@ -12,11 +12,9 @@
 ```javascript
 const bilalMessaoui = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, PHP ],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Sass ],
   tools: [React, Redux, Node, Angular, Jest, React-Testing-library ],
-  languages: {
-                    speaker: "Spanish/English/Arabic"
-                  },
+  languages: { speaker: "Spanish/English/Arabic" }
 }
 ```
 
