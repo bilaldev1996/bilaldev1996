@@ -13,15 +13,14 @@
 const bilalMessaoui = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, PHP, Sass ],
-  tools: [React, Redux, Node, Angular, Jest, React-Testing-library ],
+  tools: [React, Redux, Node, Bootstrap ],
   languages: { speaker: "Spanish/English/Arabic" }
 }
 ```
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bilaldev1996&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bilaldev1996&show_icons=true&theme=merko)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilaldev1996&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilaldev1996&layout=compact&theme=merko)]
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
