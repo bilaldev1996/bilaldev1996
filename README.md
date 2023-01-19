@@ -13,7 +13,7 @@
 const bilalMessaoui = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, PHP, Sass ],
-  tools: [React, Redux, Node, Bootstrap ],
+  tools: [React, Laravel, Tailwind, Node, Bootstrap ],
   languages: { speaker: "Spanish/English/Arabic" }
 }
 ```
